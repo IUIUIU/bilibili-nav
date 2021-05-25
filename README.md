@@ -1,5 +1,7 @@
 # bilibili-nav
 
+注意：请解压bilibili.zip项目文件之后再npm install 然后再npm run serve运行
+
 Vue 仿写 B 站侧边到导航栏
 搬运来源：https://github.com/NightCatSama/vue-bilibili-nav
 
