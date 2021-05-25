@@ -7,6 +7,9 @@ Vue 仿写 B 站侧边到导航栏
 
 [在线预览 demo](https://nightcatsama.github.io/vue-bilibili-nav/example/dist/)
 
+![动态图](https://cdn.nlark.com/yuque/0/2021/gif/632836/1621933340071-a8449e91-6bc5-461e-8d29-fb81ff80886e.gif) 
+
+
 ## options
 
 ```js
