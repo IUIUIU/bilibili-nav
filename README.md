@@ -2,7 +2,7 @@
 Vue仿写B站侧边到导航栏
 搬运来源：https://github.com/NightCatSama/vue-bilibili-nav
 
-[在线预览地址](https://nightcatsama.github.io/vue-bilibili-nav/example/dist/)
+[在线预览 demo](https://nightcatsama.github.io/vue-bilibili-nav/example/dist/)
 
 ## options
 
